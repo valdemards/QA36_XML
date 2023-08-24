@@ -1,1 +1,6 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <first_bug>wrong lending page background</first_bug>
+  <second_bug>login button doesnt work</second_bug>
+  <thisrd_bug>no confirmation email after registration</thisrd_bug>
+</root>
