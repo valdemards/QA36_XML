@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <favorite_movie>a_deep_dive</favorite_movie>
+  <favorite_serial>the_game_of_thrones</favorite_serial>
+  <favorite_dish>steak</favorite_dish>
+  <favorite_season>winter</favorite_season>
+  <country_to_visit>Argentine</country_to_visit>
+</root>
